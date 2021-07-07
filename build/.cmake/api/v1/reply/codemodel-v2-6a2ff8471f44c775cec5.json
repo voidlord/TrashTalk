@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/repos/trashTalk/build",
-		"source" : "D:/repos/trashTalk"
+		"build" : "D:/repos/TrashTalk/build",
+		"source" : "D:/repos/TrashTalk"
 	},
 	"version" : 
 	{

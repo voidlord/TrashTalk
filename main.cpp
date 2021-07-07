@@ -122,7 +122,7 @@ int main() {
 
     MSG msg;
     // Message loop to keep hook alive
-    while (!GetMessage(&msg, NULL, 0, 0)) {
+    while (GetMessage(&msg, NULL, 0, 0)) {
         TranslateMessage(&msg);
         DispatchMessage(&msg);
     }

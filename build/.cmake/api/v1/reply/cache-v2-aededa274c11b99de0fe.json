@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/repos/trashTalk/build"
+			"value" : "d:/repos/TrashTalk/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -1611,7 +1611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/repos/trashTalk/build"
+			"value" : "D:/repos/TrashTalk/build"
 		},
 		{
 			"name" : "TrashTalk_SOURCE_DIR",
@@ -1623,7 +1623,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/repos/trashTalk"
+			"value" : "D:/repos/TrashTalk"
 		}
 	],
 	"kind" : "cache",
